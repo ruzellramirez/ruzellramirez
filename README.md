@@ -12,7 +12,7 @@ I believe that there is always a tech solution to any problem. You just have to 
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/ruzellramirez"><img src="https://img.shields.io/badge/-Ruzell%20Ramirez%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ruzellramirez" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/ruzramirez"><img src="https://img.shields.io/badge/-Ruzell%20Ramirez%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/ruzellramirez" alt="LinkedIn Badge"></a> 
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
