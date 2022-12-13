@@ -1,6 +1,6 @@
 <strong>✨ I'm a Research and Development Engineer based in the Philippines. </strong>
 <br><br>
-I believe that there is always a tech solution to any problem. You just have to search - or do the next best thing, hire me and I'll do it for you 😄
+I believe that there is always a tech solution to any problem. You just have to search.
 <br>
 <br>
 
