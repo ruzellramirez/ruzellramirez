@@ -1,7 +1,5 @@
-<strong>✨ I'm a Research and Development Engineer based in the Philippines. </strong>
-<br><br>
-I believe that there is always a tech solution to any problem. You just have to search.
-<br>
+<strong>I'm a Research and Development Engineer based in the Philippines. </strong>
+
 
 ---
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
